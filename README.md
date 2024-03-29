@@ -32,7 +32,7 @@ Esse projeto é um sistema para controle de gastos pessoais, permitindo aos usu�
 - Toda aplicação além de GetAllUsers e login estão bloqueados até você fazer login.
 - Os 4 serviços tem CRUD.
 
-USUARIO:
+1. USUARIO:
 
    <img width="883" alt="Captura de tela 2024-03-29 010352" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/67ff12c4-5006-4374-8080-a7b41aa88fe4">
    
@@ -41,14 +41,14 @@ USUARIO:
    <img width="883" alt="Captura de tela 2024-03-29 010528" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/8d57db34-3116-4de8-9d52-fd263109f014">
 
 
-NATUREZA DE LANÇAMENTO:
+2. NATUREZA DE LANÇAMENTO:
 
    <img width="883" alt="Captura de tela 2024-03-29 011632" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/23698fbc-a23f-46fd-896a-ee834eda68f5">
    
    <img width="883" alt="Captura de tela 2024-03-29 011620" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/4be40b6a-f905-48d8-b757-7e9c7f9a95d1">
 
 
-A PAGAR:
+3. A PAGAR:
 
    <img width="883" alt="Captura de tela 2024-03-29 011911" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/258d038b-6588-41f4-b148-ce18864ba096">
    
@@ -60,7 +60,7 @@ A PAGAR:
 
 
 
-A RECEBER: 
+4. A RECEBER: 
    
    <img width="883" alt="Captura de tela 2024-03-29 012049" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/749cd0a8-9308-4083-9027-73f52f93bcb8">
    
