@@ -34,44 +34,45 @@ Esse projeto é um sistema para controle de gastos pessoais, permitindo aos usu�
 
 USUARIO:
 
-<img width="959" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/f9c83c06-d11f-4167-8e6a-01269ad12b2d">
+<img width="959" alt="Captura de tela 2024-03-29 010352" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/67ff12c4-5006-4374-8080-a7b41aa88fe4">
 
-<img width="959" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/672317ab-2ea7-428e-b5c9-7f1ea32fa16b">
+<img width="959" alt="Captura de tela 2024-03-29 010453" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/e3d36c84-6262-4605-b6a4-1bb067c2117e">
 
-<img width="959" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/ec9e6f25-b0ac-4f62-97a0-d57ee87a37b4">
+<img width="959" alt="Captura de tela 2024-03-29 010528" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/8d57db34-3116-4de8-9d52-fd263109f014">
 
 
 NATUREZA DE LANÇAMENTO:
 
-<img width="958" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/cf4ea92e-c7fe-4822-b3a0-53068afc23eb">
+<img width="958" alt="Captura de tela 2024-03-29 011632" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/23698fbc-a23f-46fd-896a-ee834eda68f5">
 
-<img width="952" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/14b9d14b-6d9c-4225-bd33-6a787ddbd2f2">
+<img width="883" alt="Captura de tela 2024-03-29 011620" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/4be40b6a-f905-48d8-b757-7e9c7f9a95d1">
+
 
 A PAGAR:
 
-<img width="960" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/7a0e3714-00c4-4dfd-8531-41655fe46815">
+<img width="960" alt="Captura de tela 2024-03-29 011911" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/258d038b-6588-41f4-b148-ce18864ba096">
 
-<img width="960" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/3f8a2841-07e4-4c0d-a244-233e57d381eb">
+<img width="960" alt="Captura de tela 2024-03-29 012120" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/cb480fd2-2c0c-44f0-b7c5-088769f4b297">
 
-<img width="960" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/7a4a9f94-d144-4b9c-ba1e-6a0805d38dcf">
+<img width="960" alt="Captura de tela 2024-03-29 012216" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/cb10b32f-85c6-4737-b0fc-9a4bfcdc9b3f">
 
-<img width="948" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/6fc4d18e-b90a-4881-a55d-4c50ac56ddd4">
+<img width="948" alt="Captura de tela 2024-03-29 012228" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/26978ca5-4412-4bfc-83f4-0d91a6909f84">
 
 
 
 A RECEBER: 
 
-<img width="959" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/a2d5b9e0-20b0-46ee-9cd6-06a157c820d3">
+<img width="959" alt="Captura de tela 2024-03-29 012049" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/749cd0a8-9308-4083-9027-73f52f93bcb8">
 
-<img width="950" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/76657622-9572-44a3-a676-e4415a0c4fee">
+<img width="950" alt="Captura de tela 2024-03-29 012245" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/f850407d-5a12-430b-8009-adb5d5057288">
 
-<img width="957" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/c608521a-3a1c-4ab6-a720-08e74e107d10">
+<img width="957" alt="Captura de tela 2024-03-29 012317" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/50ada1c5-6f11-4dbc-844f-3cddb2b6df8d">
 
-<img width="960" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/acda5863-da01-48fa-9da6-4877aa7fea50">
+<img width="960" alt="Captura de tela 2024-03-29 012330" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/76816829-dae2-4777-8875-5d485334cbd3">
 
-<img width="960" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/d5e176f9-1896-47d6-8a7d-c3bf2eeade2f">
+<img width="960" alt="Captura de tela 2024-03-29 012420" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/38015214-6a03-4099-b411-f014c782a5ca">
 
-<img width="949" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/6a82db3b-725f-41f7-8dc3-e6a3d028da97">
+<img width="949" alt="Captura de tela 2024-03-29 012437" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/24aa8430-fa5f-4487-8596-de9aa844b65f">
 
 
 # Exceptions:
@@ -81,16 +82,18 @@ Na API, implementamos três tipos de exceções:
 1. BadRequestException: Utilizada para casos em que ocorrem envios de dados em formatos inválidos ou incorretos durante operações de adição e atualização.
 
    Implementado na lógica do valor:
-   
-   <img width="941" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/f11d27b3-2388-4e34-93a3-a0d5257d9705">
+
+   <img width="941" alt="Captura de tela 2024-03-29 011440" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/2afd5293-3103-444e-8245-fd64e96bdbf2">
 
 
 3. NotFoundException: Empregada quando não é possível encontrar o identificador (ID) especificado durante operações de obtenção por ID e exclusão.
 
-   <img width="960" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/79e299f2-cf05-45c2-ba65-ad310d7cdd1c">
+   <img width="960" alt="Captura de tela 2024-03-29 010609" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/6964f91b-c2aa-411f-b08a-2c0d3e0f42d9">
+
 
 4. AuthenticationException: Reservada para situações em que ocorrem falhas durante o processo de autenticação, como credenciais de login inválidas.
    
-   <img width="960" alt="image" src="https://github.com/felipesphair/API-REST-CONTROLE-FACIL/assets/107360437/b9023532-b0a6-4322-a92f-e227244539e8">
+   <img width="960" alt="Captura de tela 2024-03-29 003441" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/4484bd8c-e040-4c3f-a435-6530836ebf56">
+
 
 
