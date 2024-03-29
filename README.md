@@ -4,7 +4,7 @@ Esse projeto é um sistema para controle de gastos pessoais, permitindo aos usu�
 
 # Tecnologias Utilizadas:
 
-![image](https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/70412d11-cd60-4a8e-8c02-83d793896364)
+![image](https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/ee488639-783a-4b1f-a982-e858babd1f28)
 
 - *C#*: Linguagem de programação principal utilizada para o desenvolvimento do sistema.
 - *Net8*: Framework que fornece uma estrutura sólida para a construção de aplicativos, incluindo a implementação de APIs Restful.
