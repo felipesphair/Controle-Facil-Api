@@ -1,0 +1,28 @@
+Instalar dotnet core 8.0 
+
+Instalar o dotnet -ef
+    dotnet tool install --global dotnet-ef --version 7.0.0-*
+
+Criar Migrations
+    dotnet ef migrations add CriarEntidadeUsuario
+    (deve-se rodar dentro de ControleFaci.Api)
+
+Executar migrations
+    dotnet ef database update
+
+CRIAR NOVA ENTIDADE:
+    criar modelo
+    criar map - criar mapeamento
+    vincula esse map no applicationContext - adicionar mapeamento no applicationContext
+    criar migration da nova entidade(modelo)
+    executar migration
+
+Criando o CRUD:
+1° entidade
+2° Repositorio
+3° Contrato ou DTO
+4° Serviço
+5° Controller
+
+
+dotnet ef migrations add CriarEntidadeNaturezaDeLancamento
