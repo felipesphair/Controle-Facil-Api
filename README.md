@@ -34,45 +34,45 @@ Esse projeto é um sistema para controle de gastos pessoais, permitindo aos usu�
 
 USUARIO:
 
-<img width="959" alt="Captura de tela 2024-03-29 010352" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/67ff12c4-5006-4374-8080-a7b41aa88fe4">
-
-<img width="959" alt="Captura de tela 2024-03-29 010453" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/e3d36c84-6262-4605-b6a4-1bb067c2117e">
-
-<img width="959" alt="Captura de tela 2024-03-29 010528" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/8d57db34-3116-4de8-9d52-fd263109f014">
+   <img width="883" alt="Captura de tela 2024-03-29 010352" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/67ff12c4-5006-4374-8080-a7b41aa88fe4">
+   
+   <img width="883" alt="Captura de tela 2024-03-29 010453" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/e3d36c84-6262-4605-b6a4-1bb067c2117e">
+   
+   <img width="883" alt="Captura de tela 2024-03-29 010528" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/8d57db34-3116-4de8-9d52-fd263109f014">
 
 
 NATUREZA DE LANÇAMENTO:
 
-<img width="958" alt="Captura de tela 2024-03-29 011632" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/23698fbc-a23f-46fd-896a-ee834eda68f5">
-
-<img width="883" alt="Captura de tela 2024-03-29 011620" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/4be40b6a-f905-48d8-b757-7e9c7f9a95d1">
+   <img width="883" alt="Captura de tela 2024-03-29 011632" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/23698fbc-a23f-46fd-896a-ee834eda68f5">
+   
+   <img width="883" alt="Captura de tela 2024-03-29 011620" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/4be40b6a-f905-48d8-b757-7e9c7f9a95d1">
 
 
 A PAGAR:
 
-<img width="960" alt="Captura de tela 2024-03-29 011911" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/258d038b-6588-41f4-b148-ce18864ba096">
-
-<img width="960" alt="Captura de tela 2024-03-29 012120" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/cb480fd2-2c0c-44f0-b7c5-088769f4b297">
-
-<img width="960" alt="Captura de tela 2024-03-29 012216" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/cb10b32f-85c6-4737-b0fc-9a4bfcdc9b3f">
-
-<img width="948" alt="Captura de tela 2024-03-29 012228" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/26978ca5-4412-4bfc-83f4-0d91a6909f84">
+   <img width="883" alt="Captura de tela 2024-03-29 011911" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/258d038b-6588-41f4-b148-ce18864ba096">
+   
+   <img width="883" alt="Captura de tela 2024-03-29 012120" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/cb480fd2-2c0c-44f0-b7c5-088769f4b297">
+   
+   <img width="883" alt="Captura de tela 2024-03-29 012216" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/cb10b32f-85c6-4737-b0fc-9a4bfcdc9b3f">
+   
+   <img width="883" alt="Captura de tela 2024-03-29 012228" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/26978ca5-4412-4bfc-83f4-0d91a6909f84">
 
 
 
 A RECEBER: 
-
-<img width="959" alt="Captura de tela 2024-03-29 012049" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/749cd0a8-9308-4083-9027-73f52f93bcb8">
-
-<img width="950" alt="Captura de tela 2024-03-29 012245" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/f850407d-5a12-430b-8009-adb5d5057288">
-
-<img width="957" alt="Captura de tela 2024-03-29 012317" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/50ada1c5-6f11-4dbc-844f-3cddb2b6df8d">
-
-<img width="960" alt="Captura de tela 2024-03-29 012330" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/76816829-dae2-4777-8875-5d485334cbd3">
-
-<img width="960" alt="Captura de tela 2024-03-29 012420" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/38015214-6a03-4099-b411-f014c782a5ca">
-
-<img width="949" alt="Captura de tela 2024-03-29 012437" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/24aa8430-fa5f-4487-8596-de9aa844b65f">
+   
+   <img width="883" alt="Captura de tela 2024-03-29 012049" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/749cd0a8-9308-4083-9027-73f52f93bcb8">
+   
+   <img width="883" alt="Captura de tela 2024-03-29 012245" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/f850407d-5a12-430b-8009-adb5d5057288">
+   
+   <img width="883" alt="Captura de tela 2024-03-29 012317" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/50ada1c5-6f11-4dbc-844f-3cddb2b6df8d">
+   
+   <img width="883" alt="Captura de tela 2024-03-29 012330" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/76816829-dae2-4777-8875-5d485334cbd3">
+   
+   <img width="883" alt="Captura de tela 2024-03-29 012420" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/38015214-6a03-4099-b411-f014c782a5ca">
+   
+   <img width="883" alt="Captura de tela 2024-03-29 012437" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/24aa8430-fa5f-4487-8596-de9aa844b65f">
 
 
 # Exceptions:
@@ -83,17 +83,17 @@ Na API, implementamos três tipos de exceções:
 
    Implementado na lógica do valor:
 
-   <img width="941" alt="Captura de tela 2024-03-29 011440" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/2afd5293-3103-444e-8245-fd64e96bdbf2">
+   <img width="883" alt="Captura de tela 2024-03-29 011440" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/2afd5293-3103-444e-8245-fd64e96bdbf2">
 
 
 3. NotFoundException: Empregada quando não é possível encontrar o identificador (ID) especificado durante operações de obtenção por ID e exclusão.
 
-   <img width="960" alt="Captura de tela 2024-03-29 010609" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/6964f91b-c2aa-411f-b08a-2c0d3e0f42d9">
+   <img width="883" alt="Captura de tela 2024-03-29 010609" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/6964f91b-c2aa-411f-b08a-2c0d3e0f42d9">
 
 
 4. AuthenticationException: Reservada para situações em que ocorrem falhas durante o processo de autenticação, como credenciais de login inválidas.
    
-   <img width="960" alt="Captura de tela 2024-03-29 003441" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/4484bd8c-e040-4c3f-a435-6530836ebf56">
+   <img width="883" alt="Captura de tela 2024-03-29 003441" src="https://github.com/felipesphair/Controle-Facil-Api/assets/107360437/4484bd8c-e040-4c3f-a435-6530836ebf56">
 
 
 
